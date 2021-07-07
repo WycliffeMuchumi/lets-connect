@@ -1,8 +1,11 @@
 import React from "react"
-import ReactDom from "react-dom"
 
-// import logo from '../src/logo.svg';
+// import logo from './src/logo.svg';
 // import '../src/Home.css';
+
+import Footer from './Footer'
+
+
 
 // Function component
 // Returns JSX code
@@ -12,6 +15,7 @@ function Home() {
       <header className="Home-header">
         <h1>Welcome To Playground</h1>
       </header>
+      <Footer />
     </div>
   );
 }
