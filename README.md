@@ -71,5 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
 # my-playground-react.js
-A simple todo react.js application
+A simple todo react.js application.
 >>>>>>> fc09c56b2bad9c29134d653284c2bf77a79de501
