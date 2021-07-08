@@ -1,13 +1,13 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import './index.css'
-import Home from '../src/components/Home'
+import App from './components/App'
 import reportWebVitals from './reportWebVitals'
 
 // ReactDom.render takes in two arguments, what I want to render and where I want to render it i.e("root")
 ReactDOM.render(
   <React.StrictMode>
-    <Home />
+    <App />
   </React.StrictMode>,
   document.getElementById('root')
 );
