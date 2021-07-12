@@ -1,13 +1,15 @@
 import { directive } from "@babel/types"
-import React from "react"
+import React, {Component} from "react"
 
 
-function Navbar(){
-    return(
-        <div className="navbar">
-            <h1>Todo Application</h1>
-        </div>
-    )
+class Navbar extends Component{
+    render(){
+        return(
+            <div className = "navbar">
+                <h1>Destination Bucketlist Application</h1>
+            </div>
+        )
+    }
 }
 
 export default Navbar;

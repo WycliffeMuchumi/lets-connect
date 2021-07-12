@@ -24,7 +24,7 @@ code {
   align-items: center;
   padding: 3px 55px 3px 55px;
 }
-.todo-list{
+.main-view{
   background-color: white;
   margin: auto;
   width: 50%;
@@ -45,7 +45,7 @@ code {
   0 20px 1px -9px rgba(0,0,0,0.15);
   padding: 30px;
 }
-.todo-item{
+.content-section{
   display: flex;
   justify-content: flex-start;
   align-items: center;
