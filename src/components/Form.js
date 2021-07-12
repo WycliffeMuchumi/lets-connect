@@ -90,3 +90,6 @@ class Form extends Component{
 }
 
 export default Form;
+
+// Constructor method initializes a class component
+// super() method ships properties and methods from the super parent class(React.Component)
